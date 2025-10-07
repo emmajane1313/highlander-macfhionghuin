@@ -159,10 +159,10 @@ export default function Home() {
             </div>
             <div className="relative w-full h-fit text-left gap-2 flex flex-col">
               {[
-                "2000–1200 R.C. → Thòisich muinntir Indo-Eòrpach a' ruigsinn nan Eileanan Bhreatannach.",
+                "2000–1200 R.C. → Thòisich muinntir Indo-Eòrpach a'ruigsinn nan Eileanan Bhreatannach.",
                 "1200–800 R.C. → Chaidh cultar Ceilteach a chruthachadh ann an Èirinn.",
                 "Mu 1000 R.C. → Bha na Ceiltich stèidhichte gu daingeann ann an Èirinn.",
-                "Mu 800–400 R.C. → Dh'fhas cultar nan Gàidheal; thòisich an eagrachadh treubhach (na túatha) a' gabhail cruth.",
+                "Mu 800–400 R.C. → Dh' fhas cultar nan Gàidheal; thòisich an eagrachadh treubhach (na túatha) a' gabhail cruth.",
                 "Mu 400–100 R.C. → Chaidh na prìomh threubhan is rìoghachdan roinneil a chur air dòigh.",
                 "100–200 A.D. → Bha rìoghachdan nan Gàidheal a' neartachadh ann an ceann a tuath na h-Èireann.",
                 "Thòisich muinntir roinne Aontroma is Doire a' fàs cumhachdach.",
@@ -232,7 +232,7 @@ export default function Home() {
                   Ruigsinn ann an Earra-Ghàidheal
                 </div>
                 <div className="relative w-full justify-center md:justify-start h-fit flex text-xs sm:text-sm font-king">
-                  Ann an linn nan 500an, dh'fhàg Dál Riata cladach Uladh, agus
+                  Ann an linn nan 500an, dh&apos;fhàg Dál Riata cladach Uladh, agus
                   sheòl iad thairis air Sruth na Maoile gu fearann ùr ann an
                   Earra-Ghàidheal.
                 </div>
@@ -248,7 +248,7 @@ export default function Home() {
                 <div className="relative w-full justify-center md:justify-start h-fit flex text-xs font-king">
                   Ann an 563, stèidhich Calum Cille an manachainn aig Ì Chaluim
                   Chille, air an eilean bheag Ì, ri taobh Eilean Mhuile. Far am
-                  bi bo bidh bean, s' far am bi bean bidh mallachadh. Nach eil
+                  bi bo bidh bean, s&apos; far am bi bean bidh mallachadh. Nach eil
                   fhios agad...
                 </div>
               </div>
@@ -290,18 +290,18 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:justify-end md:pr-8 w-full order-2 md:order-1">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm font-wind justify-center md:justify-start">
-                  Rìoghachd Ghàidhealach thar a' chuain
+                  Rìoghachd Ghàidhealach thar a&apos; chuain
                 </div>
                 <div className="relative w-full justify-center md:justify-start h-fit flex text-xs font-king">
-                  Lean Cenél nGabráin orra a' cumail an rìgh-chathair tron
-                  t-seachdamh linn. Dh'fhàs lìon manachail Ì gu luath, agus rinn
+                  Lean Cenél nGabráin orra a&apos; cumail an rìgh-chathair tron
+                  t-seachdamh linn. Dh&apos;fhàs lìon manachail Ì gu luath, agus rinn
                   e Ì mar an ionad creideimh as buadhmhoire ann am Breatainn. Fo
-                  Dhòmhnall Brecc, dh'fhuiling Dál Riata callan-cogaidh mòra
+                  Dhòmhnall Brecc, dh&apos;fhuiling Dál Riata callan-cogaidh mòra
                   agus thàinig i fo uachdranas Oswy ann an Northumbria. Aig an
                   aon àm, rinn na Cruithnich aonachadh fo Bhridei mac Beli, às
-                  dèidh dhaibh Northumbria a' chùis a chur orra ann an 685.
-                  Dh'fhàs na còmhstrithean eadar na cinnidhean Gàidhealach fhèin
-                  nas làidire, agus dh'fhàg sin Dál Riata lag, air a pronnadh
+                  dèidh dhaibh Northumbria a&apos; chùis a chur orra ann an 685.
+                  Dh&apos;fhàs na còmhstrithean eadar na cinnidhean Gàidhealach fhèin
+                  nas làidire, agus dh&apos;fhàg sin Dál Riata lag, air a pronnadh
                   eadar nàbaidhean nas treasa.
                 </div>
               </div>
@@ -377,13 +377,13 @@ export default function Home() {
                 </div>
                 <div className="relative w-full justify-center md:justify-start h-fit flex text-xs font-king">
                   Bha farpais eadar Cenél nGabráin san deas agus Cenél Loairn
-                  san tuath, agus dh'fhàg sin structar a-staigh Dháil Ríata lag
+                  san tuath, agus dh&apos;fhàg sin structar a-staigh Dháil Ríata lag
                   is briste. Ghabh na Cruithnich fo Onuist mac Uurguist
                   (732–761) brath air na sgarraidhean sin. Eadar 734 agus 736,
                   chuir Onuist iomairtean-cogaidh an aghaidh Dháil Ríata. Ghlac
                   e agus mharbh e prionnsaichean Gàidhealach a bha nan nàimhdean
                   dha. Ghabh e Dùn Add, dùn rìoghail Dháil Ríata agus samhla na
-                  rìoghachd fhèin. Cha deach Dál Riata a sgrios, ach dh'fhàs i
+                  rìoghachd fhèin. Cha deach Dál Riata a sgrios, ach dh&apos;fhàs i
                   na prìomh-roinn fo smachd nan Cruithneach, le uaislean
                   Gàidhealach fhathast beò fo an uachdranas.
                 </div>
@@ -435,11 +435,11 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:pl-8 w-full">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-left">
                 <div className="relative w-full h-fit flex text-sm font-wind justify-center md:justify-start">
-                  802 A' Chiad Ionnsaigh Lochlannach air Ì
+                  802 A&apos; Chiad Ionnsaigh Lochlannach air Ì
                 </div>
                 <div className="relative w-full h-fit flex text-xs font-king justify-center md:justify-start">
                   Chuir an ionnsaigh air Ì bun os cionn ùghdarras creideimh nan
-                  Gàidheal, agus nochd i cho so-leònte ’s a bha cladach
+                  Gàidheal, agus nochd i cho so-leònte &apos;s a bha cladach
                   Earra-Ghàidheal.
                 </div>
               </div>
@@ -455,7 +455,7 @@ export default function Home() {
                   Thill na creachadairean Lochlannach, agus mharbh iad sia-deug
                   is trì fichead de na manaich. Ghluais na feadhainn a thàinig
                   beò pàirt den choimhearsnachd manachail gu Ceanannas ann an
-                  Èirinn, ged a dh'fhuirich cuid eile fhathast air Ì.
+                  Èirinn, ged a dh&apos;fhuirich cuid eile fhathast air Ì.
                 </div>
               </div>
             </div>
@@ -531,10 +531,10 @@ export default function Home() {
                   Ionnsaighean nan Cinneach Cèin
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Tha na h-annala a' clàradh ionnsaighean "paganach" a'
+                  Tha na h-annala a&apos; clàradh ionnsaighean &quot;paganach&quot; a&apos;
                   leantainn air cladach an iar na h-Alba. Thòisich
-                  long-chabhlach nan Lochlannach a' fuireach tro gheamhraidhean
-                  anns na h-Eileanan Siar, agus a' stèidheachadh bunaitean
+                  long-chabhlach nan Lochlannach a&apos; fuireach tro gheamhraidhean
+                  anns na h-Eileanan Siar, agus a&apos; stèidheachadh bunaitean
                   leth-sheasmhach. Bha na creachan ag amas air Earra-Ghàidheal,
                   na h-Eileanan a-staigh, agus oirthir nan Cruithneach. Chuir
                   seo bun os cionn dìonan cladaich nan Cruithneach, agus leig e
@@ -622,14 +622,14 @@ export default function Home() {
           </video>
           <div className="relative w-fit h-fit flex font-king">
             Tha rìoghachd nan Cruithneach gun stiùir, gun aonachd. À
-            Earra-Ghàidheal, gluaisidh Ailpín le claidheamh ’na làimh, a-steach
-            do dhùthaich nan Cruithneach, is Ghall-Ghàidheal mar a’ chrìoch. Ach
-            thuiteas e, air a’ chathair, air an talamh, agus thèid a cheann àrd
+            Earra-Ghàidheal, gluaisidh Ailpín le claidheamh &apos;na làimh, a-steach
+            do dhùthaich nan Cruithneach, is Ghall-Ghàidheal mar a&apos; chrìoch. Ach
+            thuiteas e, air a&apos; chathair, air an talamh, agus thèid a cheann àrd
             a chur air stob. Bidh Dál Riata na tobhta.
             <br />
             <br />
-            Ach èiridh a mhac, Coinneach mac Ailpín, fear a’ dìoghladh, fear a’
-            gabhail an rìgh-chathair. Le cogadh is cealg, bidh e a’ ceangal nan
+            Ach èiridh a mhac, Coinneach mac Ailpín, fear a&apos; dìoghladh, fear a&apos;
+            gabhail an rìgh-chathair. Le cogadh is cealg, bidh e a&apos; ceangal nan
             rìoghachdan fo aon bhratach. Tha na seann sgeulachdan ag ràdh, gun
             tug e cuireadh do uaislean nan Cruithneach gu fleadh mhòr, agus
             nuair a thuit na beingean, thuit iad fhèin gu bàs. Mar sin
@@ -738,7 +738,7 @@ export default function Home() {
                   Crìoch nan Cruithneach
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Tha cànan agus aithne nan Cruithneach a' crìonadh mean air
+                  Tha cànan agus aithne nan Cruithneach a&apos; crìonadh mean air
                   mhean às na h-annala, agus gan gabhail a-steach le cultar nan
                   Gàidheal.
                 </div>
@@ -752,7 +752,7 @@ export default function Home() {
                   906 Comhairle Shrùin
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  Tha Còiseam II agus na h-easbaigean a' cruinneachadh aig Srùn,
+                  Tha Còiseam II agus na h-easbaigean a&apos; cruinneachadh aig Srùn,
                   far a bheil lagh agus creideamh nan Cruithneach is nan
                   Gàidheal air an daingneachadh ann an Alba.
                 </div>
@@ -830,7 +830,7 @@ export default function Home() {
                   937 Blàr Bhrunanburh
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Tha Còiseam II agus Amlaíb nan Gàidheal a' tighinn còmhla an
+                  Tha Còiseam II agus Amlaíb nan Gàidheal a&apos; tighinn còmhla an
                   aghaidh Aethelstan Shasainn. Blàr mòr, fuilteach; ged a
                   bhuannaicheas na Sasannaich.
                 </div>
@@ -847,7 +847,7 @@ export default function Home() {
                   Às dèidh riaghailt trì fichead is trì bliadhna, leig Còiseam
                   II às an rìgh-chathair le a thoil fhèin agus ghluais e gu
                   manachainn Chill Rìmhinn. Rìgh fada na shuidhe, thug e
-                  seasmhachd do dh’Alba, ag àrdachadh na rìoghachd air
+                  seasmhachd do dh&apos;Alba, ag àrdachadh na rìoghachd air
                   bun-stèidh Choinnich mhic Ailpín.
                 </div>
               </div>
@@ -1072,7 +1072,7 @@ export default function Home() {
           </div>
         </div>
         <div className="relative max-w-4xl w-fit h-fit flex text-center font-king text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl px-4">
-          880–920 Èirigh Fhionghuin, a' Chiad Tighearna Clainne
+          880–920 Èirigh Fhionghuin, a&apos; Chiad Tighearna Clainne
         </div>
         <div className="relative w-full flex flex-col items-center py-6 md:py-12 gap-8 md:gap-16 text-white px-4">
           <div className="absolute left-1/2 -translate-x-1/2 top-0 bottom-0 w-0 border-l-2 border-dashed border-white z-0"></div>
@@ -1117,14 +1117,14 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Ann an iar fo smachd nan Lochlannach, tha teaghlaichean
                   Ghàidhealach ag atharrachadh ris an òrdugh phoilitigeach ùr,
-                  a' daingneachadh an cumhachd tro chàirdeas-fala, fearann, agus
+                  a&apos; daingneachadh an cumhachd tro chàirdeas-fala, fearann, agus
                   ùghdarras ionadail. Tro phòsadh is caidreachas leis na
                   tuineachaidhean Lochlannach, èiridh uaislean measgaichte
-                  Ghàidhealach–Lochlannach, teaghlaichean a tha a' measgachadh
+                  Ghàidhealach–Lochlannach, teaghlaichean a tha a&apos; measgachadh
                   neart mara nan Lochlannach le fuil rìoghail nan Gàidheal.
                   Ceanglaichidh na h-aonaidhean sin na clanna ri rìoghachd nan
-                  Gàidheal agus ri cumhachd-mara nan Lochlannach, a' cruthachadh
-                  cultar sònraichte Ghàidhealach–Lochlannach a tha a' mìneachadh
+                  Gàidheal agus ri cumhachd-mara nan Lochlannach, a&apos; cruthachadh
+                  cultar sònraichte Ghàidhealach–Lochlannach a tha a&apos; mìneachadh
                   nan Eilean san linn seo.
                 </div>
               </div>
@@ -1137,8 +1137,8 @@ export default function Home() {
                   Càirdeas Pòsaidh
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  Phòs Fionghuin a' bhana-phrionnsa Lochlannach ris an canar
-                  "Màiri Ghrinn," nighean rìgh no iarail nan Lochlannach sna
+                  Phòs Fionghuin a&apos; bhana-phrionnsa Lochlannach ris an canar
+                  &quot;Màiri Ghrinn,&quot; nighean rìgh no iarail nan Lochlannach sna
                   h-Eileanan, mar a chanas an sgeul.
                 </div>
               </div>
@@ -1214,7 +1214,7 @@ export default function Home() {
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Tro a phòsadh ri Màiri Ghrinn, gheibh Fionghuin Caisteal Maol
-                  air Eilean Sgitheanach. Tha an dùn seo a' cumail smachd air
+                  air Eilean Sgitheanach. Tha an dùn seo a&apos; cumail smachd air
                   Caol Àcain, an caolas-mara cudromach eadar an t-eilean agus am
                   mòr-thìr.
                 </div>
@@ -1225,13 +1225,13 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:justify-end md:pr-8 w-full order-2 md:order-1">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm sm:text-base font-wind justify-center md:justify-end">
-                  Uirsgeul a' Chìs-Mhara
+                  Uirsgeul a&apos; Chìs-Mhara
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Tha dualchas na cloinne ag innse gun do shìn Fionghuin agus
-                  Màiri Ghrinn slabhraidh thairis air a' chaolas, a' togail chìs
+                  Màiri Ghrinn slabhraidh thairis air a&apos; chaolas, a&apos; togail chìs
                   air na bàtaichean a chaidh seachad — gnìomh clasaigeach de
-                  thighearnan nan Eilean. Tha ainm-àite Caol Àcain fhathast a'
+                  thighearnan nan Eilean. Tha ainm-àite Caol Àcain fhathast a&apos;
                   gleidheadh cuimhne air na ceanglaichean Lochlannach a thàinig
                   an dèidh sin.
                 </div>
@@ -1325,7 +1325,7 @@ export default function Home() {
                   oighreachail air coarbachd Ì, ceannas nan abadan. Le seo,
                   gluaiseas stiùir eaglaiseil Ì bho na teaghlaichean Èireannach
                   Chinéil Conaill gu uaislean dùthchasach Ghàidhealach Dháil
-                  Ríata. Tha iad a’ cumail smachd air tiodhlacadh nan rìghrean,
+                  Ríata. Tha iad a&apos; cumail smachd air tiodhlacadh nan rìghrean,
                   air gleidheadh nan luaithre agus nan naomh-thasg, agus air
                   fearann air Muile agus Ì fhèin.
                 </div>
@@ -1343,7 +1343,7 @@ export default function Home() {
                   Chaluim Chille, pàirt gan gluasad gu Dùn Chailleann fo dhìon
                   Choinnich mhic Ailpín, agus pàirt eile gan cur air ais gu
                   Èirinn. Mar abhadan oighreachail Ì, tha Clann Mhic Fhionghuin
-                  a’ cumail sùil air an gluasad seo, àm deatamach ann a bhith a’
+                  a&apos; cumail sùil air an gluasad seo, àm deatamach ann a bhith a&apos;
                   dìon dìleab spioradail Ì fo bhrùthadh nan Lochlannach.
                 </div>
               </div>
@@ -1419,8 +1419,8 @@ export default function Home() {
                   Ann an 1203, stèidhicheas sliochd Shomhairle, Tighearnan nan
                   Eilean, manachainn Bheinidictach air Ì, ag atharrachadh gu
                   h-oifigeil structar na coarbachd. Tha na h-Abadan Mhic
-                  Fhionghuin a’ gluasad bho choarb Ghàidhealach gu taic-làidir
-                  shaoghalta mar luchd-taic no abadan urramach, a’ gleidheadh an
+                  Fhionghuin a&apos; gluasad bho choarb Ghàidhealach gu taic-làidir
+                  shaoghalta mar luchd-taic no abadan urramach, a&apos; gleidheadh an
                   cuid buaidh is fearainn eadhon le teachd nan òrdughan
                   manachail à tìr-mòr.
                 </div>
@@ -1436,11 +1436,11 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Bho na 1300an air adhart, tha Clann Mhic Fhionghuin fhathast
                   ri fhaicinn sna h-eachdraidh mar luchd-taic oighreachail agus
-                  luchd-dìon fearainn Ì. Tha iad a’ dìon theachd-a-steach na
-                  manachainn, a’ cumail suas an àite naomh, agus uaireannan an
+                  luchd-dìon fearainn Ì. Tha iad a&apos; dìon theachd-a-steach na
+                  manachainn, a&apos; cumail suas an àite naomh, agus uaireannan an
                   sàs ann an connspaidean mu chìsean is còirichean le tighearnan
                   eile nan Eilean, leithid Clann Dòmhnaill. Tha an coarbachd
-                  agus an abbachd a’ toirt dhaibh ùghdarras cràbhach seasmhach,
+                  agus an abbachd a&apos; toirt dhaibh ùghdarras cràbhach seasmhach,
                   rud tearc am measg nan cinnidhean Gàidhealach.
                 </div>
               </div>
@@ -1490,10 +1490,10 @@ export default function Home() {
           <br />
           Air pàipear, tha na h-Eileanan agus Eilean Mhanainn fhathast aig Rìgh
           Lochlainn, ach ann an da-rìribh, tha uaislean Ghàidhealach–Lochlannach
-          a’ riaghladh nan eilean.
+          a&apos; riaghladh nan eilean.
           <br />
           <br />
-          Nam measg, tha Clann Mhic Fhionghuin a’ cumail Caol Àcain, doras na
+          Nam measg, tha Clann Mhic Fhionghuin a&apos; cumail Caol Àcain, doras na
           mara eadar Eilean Sgitheanach agus am mòr-thìr.
         </div>
         <div className="flex px-4">
@@ -1510,7 +1510,7 @@ export default function Home() {
         </div>
         <div className="relative h-fit flex text-sm font-king text-center max-w-md py-4 text-ama">
           Nuair a phutas Alasdair III na h-Alba an iar, ag iarraidh nan eilean
-          bho Haakon IV Lochlainn, thig cogadh orra. Bidh feachdan na h-Alba a’
+          bho Haakon IV Lochlainn, thig cogadh orra. Bidh feachdan na h-Alba a&apos;
           losgadh tuineachaidhean nan Lochlannach air Sgitheanach, ach tha na
           Mhic Fhionghuin air an sàbhaladh, oir tha an dìlseachd Ghàidhealach
           follaiseach.
@@ -1523,7 +1523,7 @@ export default function Home() {
           <br />
           <br />
           Le Cùmhnant Pheairt (1266), thèid na h-Eileanan agus Eilean Mhanainn a
-          thoirt do dh’Alba. Tha Clann Mhic Fhionghuin, uair
+          thoirt do dh&apos;Alba. Tha Clann Mhic Fhionghuin, uair
           Ghàidheil–Lochlannach, a-nis nan Gàidheil Gàidhealach cruaidh, dìleas
           do Chrùn na h-Alba.
         </div>
@@ -1571,7 +1571,7 @@ export default function Home() {
                   <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                     Aig toiseach 1306, an dèidh dha Iain Comyn a mharbhadh agus
                     an rìgh-chathair Albannach a ghlacadh, thèid Raibeart Bruis
-                    a’ bhualadh aig Meadhan (Methven) agus thèid a shealg
+                    a&apos; bhualadh aig Meadhan (Methven) agus thèid a shealg
                     tarsainn na rìoghachd le feachdan Shasainn. Teichidh e dhan
                     Iar le beagan luchd-dìleas na chuideachd. Air cladach nan
                     Eilean Siar, èiridh dìlseachd Ghàidhealach shàmhach, agus
@@ -1593,9 +1593,9 @@ export default function Home() {
                     Air fearann Mhic Fhionghuin ann an Sgitheanach, faisg air
                     Caol Àcain, gabh Bruis fasgadh ann an uamh-mhara dhorcha.
                     Tha beul-aithris ionadail ag innse gun do choimhead e an sin
-                    damhan-allaidh a’ strì ri lìon a fhighe, a’ fàiligeadh sia
+                    damhan-allaidh a&apos; strì ri lìon a fhighe, a&apos; fàiligeadh sia
                     tursan mus do shoirbhich leis air an t-seachdamh oidhirp.
-                    Ghabh Bruis seo mar chomharra, “feuch a-rithist.” Bhon
+                    Ghabh Bruis seo mar chomharra, &quot;feuch a-rithist.&quot; Bhon
                     mhionaid sin, cruaidhichidh a rùn, agus thòisicheas slighe
                     fhada saorsa na h-Alba às ùr.
                   </div>
@@ -1670,14 +1670,14 @@ export default function Home() {
                   </div>
                   <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                     Ann an 1308, gluaiseas feachd Bhruis tro chaolas cumhang
-                    faisg air Loch Obha, fhad ’s a bhios daoine nan Eilean, fo
-                    stiùir Aonghais Òig Mhic Dhòmhnaill, a’ tighinn bhon taobh
-                    Loch Èiteim, a’ dùnadh air Clann Dhùghaill. ’S e seo buille
-                    dhearbhte an aghaidh Chlann Dhùghaill Latharna, a’ briseadh
+                    faisg air Loch Obha, fhad &apos;s a bhios daoine nan Eilean, fo
+                    stiùir Aonghais Òig Mhic Dhòmhnaill, a&apos; tighinn bhon taobh
+                    Loch Èiteim, a&apos; dùnadh air Clann Dhùghaill. &apos;s e seo buille
+                    dhearbhte an aghaidh Chlann Dhùghaill Latharna, a&apos; briseadh
                     an aghaidh Ghàidhealach mu dheireadh ri Bruis. Tha Clann
                     Mhic Fhionghuin, mar phàirt den chaidreachas Ghàidhealach
-                    nan Eilean, a’ sabaid taobh ri taobh ri na Gàidheil eile fo
-                    Aonghas Òg, a’ toirt dhaibh daoine eòlach air cruth garbh
+                    nan Eilean, a&apos; sabaid taobh ri taobh ri na Gàidheil eile fo
+                    Aonghas Òg, a&apos; toirt dhaibh daoine eòlach air cruth garbh
                     nan Gàidheal agus sgil-mhara nan slòigh eileanach.
                   </div>
                 </div>
@@ -1694,9 +1694,9 @@ export default function Home() {
                     air Earra-Ghàidheal agus na h-Eileanan. Cumaidh e Pàrlamaid
                     aig Cill Rìmhinn ann an 1309 agus daingnicheas e a rìoghachd
                     thar nan sgìrean Ghàidhealach. Tha suidheachadh nan Abadan
-                    Mhic Fhionghuin air Ì a’ toirt dha Bruis àrdachadh
+                    Mhic Fhionghuin air Ì a&apos; toirt dha Bruis àrdachadh
                     samhlachail cudromach, tha gabhail ris le coimhearsnachd Ì
-                    a’ sealltainn gur esan “Rìgh nan Gàidheal,” chan e dìreach
+                    a&apos; sealltainn gur esan &quot;Rìgh nan Gàidheal,&quot; chan e dìreach
                     ionnsaighear bho na crìochan ìosal.
                   </div>
                 </div>
@@ -1738,19 +1738,19 @@ export default function Home() {
           1314 Blàr Allt nam Bàn
         </div>
         <div className="relative h-fit flex text-sm font-king text-center max-w-md py-4 text-ama">
-          Tha Aonghas Òg MacDhòmhnaill a’ tighinn le sluagh mòr nan Eilean, air
-          an ainmeachadh le Barbour mar “fhir armach mhath on iar-mhuir.”
+          Tha Aonghas Òg MacDhòmhnaill a&apos; tighinn le sluagh mòr nan Eilean, air
+          an ainmeachadh le Barbour mar &quot;fhir armach mhath on iar-mhuir.&quot;
           <br />
           <br />
           Tha Clann Mhic Fhionghuin còmhla ris fo a stiùir, taobh ri taobh ri
           Clann Dòmhnaill, Clann MhicLeòid, Clann MhicNèill, agus na Gàidheil
-          eile à na h-Eileanan Siar is a’ Ghàidhealtachd.
+          eile à na h-Eileanan Siar is a&apos; Ghàidhealtachd.
           <br />
           <br />
           Bidh iad mar choisridh aotrom is luchd-ionnsaigh luath, eòlaich air
           gluasad luath, freiceadan nan leathadan, agus strì ann an talamh bog
-          is fliuch. Bidh iad a’ cur dragh air taobhan Shasainn, a’ dìon nan
-          àiteachan garbh, agus a’ milleadh orra san riasladh.
+          is fliuch. Bidh iad a&apos; cur dragh air taobhan Shasainn, a&apos; dìon nan
+          àiteachan garbh, agus a&apos; milleadh orra san riasladh.
         </div>
         <div className="flex px-4">
           <video
@@ -1769,13 +1769,13 @@ export default function Home() {
           armachd, ach crìoch mhòr cogaidh na neo-eisimeileachd.
           <br />
           <br />
-          Tha feachd bheag Bhruis, air a dheagh eagrachadh, a’ sgrios arm mòr
-          Eideard II, ga chur air teicheadh agus a’ daingneachadh saorsa na
+          Tha feachd bheag Bhruis, air a dheagh eagrachadh, a&apos; sgrios arm mòr
+          Eideard II, ga chur air teicheadh agus a&apos; daingneachadh saorsa na
           h-Alba.
           <br />
           <br />
-          Tha pàirt Chlann Mhic Fhionghuin anns a’ bhlàr seo gan ceangal gu
-          bràth ri miotas-bunait na saorsa Albannaich — agus a’ toirt cliù
+          Tha pàirt Chlann Mhic Fhionghuin anns a&apos; bhlàr seo gan ceangal gu
+          bràth ri miotas-bunait na saorsa Albannaich — agus a&apos; toirt cliù
           maireannach don chinneadh a sheas ri Bruis aig Allt nam Bàn.
         </div>
         <div className="relative w-full flex flex-col items-center">
@@ -1821,12 +1821,12 @@ export default function Home() {
                     Às dèidh Allt nam Bàn, cleachdaidh Raibeart Bruis na
                     càirdean Ghàidhealach aige san Iar mar fheachd-mara is
                     talmhainn gluasadach. Bho 1315 air adhart, cuiridh sluagh
-                    nan Eilean ionnsaighean thar Chuain Èireann, a’ taic ri
-                    Iomairt Eideard Bhruis ann an Èirinn (1315–1318) agus a’
+                    nan Eilean ionnsaighean thar Chuain Èireann, a&apos; taic ri
+                    Iomairt Eideard Bhruis ann an Èirinn (1315–1318) agus a&apos;
                     bualadh air ceann a tuath Shasainn ann an iomairtean
-                    co-òrdanaichte. Tha an neart mara aca a’ toirt do Bhruis
-                    ruigsinneachd ro-innleachdail, a’ seachnadh dhùin nan
-                    Anglo-Normannach agus a’ leudachadh cumhachd Albannach
+                    co-òrdanaichte. Tha an neart mara aca a&apos; toirt do Bhruis
+                    ruigsinneachd ro-innleachdail, a&apos; seachnadh dhùin nan
+                    Anglo-Normannach agus a&apos; leudachadh cumhachd Albannach
                     domhainn a-steach do fhearann an nàmhaid.
                   </div>
                 </div>
@@ -1840,7 +1840,7 @@ export default function Home() {
                   </div>
                   <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                     Mar a chumas dualchas na cloinne ag ràdh, agus a rèir
-                    poileasaidh Bhruis ann a bhith a’ duais do thighearnan
+                    poileasaidh Bhruis ann a bhith a&apos; duais do thighearnan
                     dìleas Ghàidhealach, fhuair cinn-chinnidh Mhic Fhionghuin
                     aithne fhoirmeil air an cuid fearainn air an Eilean
                     Sgitheanach. Bidh an suidheachadh aca ann an Srath Àird agus
@@ -1888,9 +1888,9 @@ export default function Home() {
                   </div>
                   <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                     Tha Alba na rìoghachd shaor is neo-eisimeileach, agus bha i
-                    riamh. Fhad ’s a mhaireas ceudnar againn beò, cha tèid sinn
+                    riamh. Fhad &apos;s a mhaireas ceudnar againn beò, cha tèid sinn
                     fo smachd Shasainn gu bràth. Tha cinnidhean Ghàidhealach is
-                    uaislean nan Gleann-Ìosal a’ tighinn fo aon adhbhar is aon
+                    uaislean nan Gleann-Ìosal a&apos; tighinn fo aon adhbhar is aon
                     bhratach. Tha Alba saor.
                   </div>
                 </div>
@@ -2008,8 +2008,8 @@ export default function Home() {
                   cuiridh cabhlaichean nan Eilean ionnsaighean air tìr,
                   giùlaineas iad feachdan, agus cuiridh iad taic ri fineachan
                   Èireannach mar na h-Ó Néill agus na Mhic Dhomhnaill. Bidh
-                  Clann Mhic Fhionghuin a’ cur bàtaichean is daoine riutha, a’
-                  cuideachadh le bhith a’ leudachadh cumhachd nan Eilean ann an
+                  Clann Mhic Fhionghuin a&apos; cur bàtaichean is daoine riutha, a&apos;
+                  cuideachadh le bhith a&apos; leudachadh cumhachd nan Eilean ann an
                   Uladh.
                 </div>
               </div>
@@ -2123,7 +2123,7 @@ export default function Home() {
         <div className="relative h-fit flex flex-col items-center justify-center gap-3 py-6 text-center">
           <div className="relative max-w-md  h-fit flex font-king">
             Ann an 1493, cuiridh Crùn na h-Alba às gu h-oifigeil do
-            Thighearnachd nan Eilean, a’ toirt air falbh an tiotal agus na
+            Thighearnachd nan Eilean, a&apos; toirt air falbh an tiotal agus na
             fearainn bho Eòin MacDhòmhnaill II às dèidh a chaidreachasan tric ri
             Sasainn.
           </div>
@@ -2139,22 +2139,22 @@ export default function Home() {
           </video>
           <div className="relative max-w-md h-fit flex font-king">
             Tha faisg air dà cheud bliadhna de riaghladh leth-eisimeileach
-            Ghàidhealach fo Chlann Dòmhnaill a’ tighinn gu crìch. Tha an
+            Ghàidhealach fo Chlann Dòmhnaill a&apos; tighinn gu crìch. Tha an
             Tighearnachd Ghàidhealach–Lochlannach, poilitigeach leth-shaor,
             cultarach Ghàidhealach, agus eaconamach ceangailte ri Èirinn is na
-            h-Eileanan, a-nis fo sheilbh a’ Chrùin.
+            h-Eileanan, a-nis fo sheilbh a&apos; Chrùin.
             <br />
             <br />
             Tha rìghrean na h-Alba, gu h-àraidh Seumas I, II, is III, ag
             iarraidh cumhachd a mheadhanachadh agus an rìoghachd a thoirt fo aon
-            chrùn. Tha Tighearnan nan Eilean a’ strì ri an cuid fèin-riaghlaidh
-            agus cultar a ghleidheadh, a’ cluich Shasainn is Crùn nan
+            chrùn. Tha Tighearnan nan Eilean a&apos; strì ri an cuid fèin-riaghlaidh
+            agus cultar a ghleidheadh, a&apos; cluich Shasainn is Crùn nan
             Gleann-Ìosal an aghaidh a chèile gus seasamh an aghaidh teannachadh
             ùghdarrais rìoghail.
             <br />
             <br />
             Tha fearann Chlann Mhic Fhionghuin ann an Sgitheanach is Muile a-nis
-            fo ùghdarras dìreach rìghrean na h-Alba, a’ comharrachadh
+            fo ùghdarras dìreach rìghrean na h-Alba, a&apos; comharrachadh
             tòiseachadh linn ùr. Bidh iad a-nis nan ìochdaran do rìgh fad às, le
             cultar is poileasaidh choimheach dhaibh, àm de mhì-chinnt,
             mì-thuigse, is bròn.
@@ -2201,9 +2201,9 @@ export default function Home() {
                     Ann an 1494, seòlas Seumas IV an Iar le cabhlaich rìoghail,
                     airson smachd a chur air na h-Eileanan agus uaislean
                     Ghàidhealach fhàgail fo eagal. Chan eil na Mhic Fhionghuin,
-                    còmhla ri luchd-dìlse Chlann Dòmhnaill, a’ gabhail ùmhlachd
+                    còmhla ri luchd-dìlse Chlann Dòmhnaill, a&apos; gabhail ùmhlachd
                     sa bhad. Seachnaidh iad còmhstri dhìreach, ach chan eil iad
-                    a’ cur taic làn ris a’ Chrùn, a’ coimhead fhad ’s a tha
+                    a&apos; cur taic làn ris a&apos; Chrùn, a&apos; coimhead fhad &apos;s a tha
                     siorraman rìoghail agus riochdairean Chaimbeulach air an cur
                     an àiteachan-cumhachd nan sgìrean aca.
                   </div>
@@ -2223,8 +2223,8 @@ export default function Home() {
                     Clann Dòmhnaill Shlèite aig ceann an ar-a-mach, le taic bho
                     chinnidhean càirdeil, nam measg Clann Mhic Fhionghuin. Bidh
                     ionnsaighean-mara, strì ionadail, agus daingnichean
-                    eileanach a’ comharrachadh an t-sabaid seo. Ach tha an
-                    ar-a-mach a’ fàiligeadh, air sgàth neart cabhlaich rìoghail
+                    eileanach a&apos; comharrachadh an t-sabaid seo. Ach tha an
+                    ar-a-mach a&apos; fàiligeadh, air sgàth neart cabhlaich rìoghail
                     agus dìth aonachd nan Gàidheal. Thèid Dòmhnall Dubh a
                     ghlacadh a-rithist.
                   </div>
@@ -2301,8 +2301,8 @@ export default function Home() {
                     Às dèidh fàilligeadh an ar-a-mach, bheir Seumas IV peanas
                     cruaidh air cinnidhean reubalta. Suidhichidh e Caimbeulaich
                     agus càirdean dìleas eile ann an dreuchdan cumhachd tro na
-                    h-Eileanan, a’ cur an àite nan tighearnan Gàidhealach tùsail
-                    le riochdairean a’ Chrùin.
+                    h-Eileanan, a&apos; cur an àite nan tighearnan Gàidhealach tùsail
+                    le riochdairean a&apos; Chrùin.
                   </div>
                 </div>
               </div>
@@ -2370,9 +2370,9 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Còmhstri fhada thar fhearann Throtarnais agus smachd air
                   slighean-mara Sgitheanais. Tha Clann Mhic Fhionghuin, mar
-                  chàirdean Chlann Dòmhnaill Shlèite, a’ toirt taic-armachd is
-                  cuideachadh bho cheann a deas Sgitheanais, a’ dìon nan
-                  slighean-mara agus a’ cuideachadh ann an ionnsaighean.
+                  chàirdean Chlann Dòmhnaill Shlèite, a&apos; toirt taic-armachd is
+                  cuideachadh bho cheann a deas Sgitheanais, a&apos; dìon nan
+                  slighean-mara agus a&apos; cuideachadh ann an ionnsaighean.
                 </div>
               </div>
             </div>
@@ -2382,11 +2382,11 @@ export default function Home() {
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm sm:text-base font-wind justify-center md:justify-end">
                   Tràth gu Meadhan na 1500an Clann Dòmhnaill vs. Clann
-                  Mhic'Illeathain
+                  Mhic&apos;Illeathain
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  Tha còmhstri a’ fàs nas teinne eadar Clann Dòmhnaill
-                  Ìle/Shlèite agus Clann Mhic’Illeathain Dhuairt mu Mhùil is na
+                  Tha còmhstri a&apos; fàs nas teinne eadar Clann Dòmhnaill
+                  Ìle/Shlèite agus Clann Mhic&apos;Illeathain Dhuairt mu Mhùil is na
                   h-eileanan mun cuairt. Le ceanglaichean fearainn ann am Muile
                   agus dìlseachd do Chlann Dòmhnaill, bheir Clann Mhic
                   Fhionghuin taic-mhara ionadail, gu h-àraidh eadar Mhuile is
@@ -2470,7 +2470,7 @@ export default function Home() {
                   Sreath de chòmhstri ionadail eadar Clann Mhic Fhionghuin Srath
                   Àird agus Clann MhicLeòid Dhùn Bheagain, mu fèidh, sprèidh,
                   agus slighean-mara air taobh deas is iar Sgitheanais. Blàran
-                  beaga, creachan, agus dìoghaltasan, a’ cur cuideam air
+                  beaga, creachan, agus dìoghaltasan, a&apos; cur cuideam air
                   crìonadh nan seann cheanglaichean Gàidhealach.
                 </div>
               </div>
@@ -2485,9 +2485,9 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Tha strì chlàraichte taobh a-staigh na cloinne fhèin mu
                   shliochd cinn-cinnidh agus seilbh fearainn ann an Srath Àird.
-                  Còmhstri ionadail, laghail, agus uaireannan fòirneartach, a’
+                  Còmhstri ionadail, laghail, agus uaireannan fòirneartach, a&apos;
                   nochdadh sgaoileadh is laigse nan cinnidhean fon bhrùthadh
-                  rìoghail a tha a’ meudachadh.
+                  rìoghail a tha a&apos; meudachadh.
                 </div>
               </div>
             </div>
@@ -2548,9 +2548,9 @@ export default function Home() {
                   Co-obrachadh bho àm gu àm, ach cuideachd teannachadh is
                   frith-bhuaidhean fearainn, gu h-àraidh mu shlighean-mara eadar
                   Sgitheanach agus na h-Eileanan Beaga. Bidh Clann Mhic
-                  Fhionghuin a’ cumail dàimh chaoimhneil ach dhuilich ri Clann
-                  Raonaild, mar a bhios gach clan eileannach a’ strì airson
-                  smachd air a’ mhuir.
+                  Fhionghuin a&apos; cumail dàimh chaoimhneil ach dhuilich ri Clann
+                  Raonaild, mar a bhios gach clan eileannach a&apos; strì airson
+                  smachd air a&apos; mhuir.
                 </div>
               </div>
             </div>
@@ -2598,18 +2598,18 @@ export default function Home() {
           </div>
         </div>
         <div className="relative h-fit flex text-sm font-king text-center max-w-md py-4 px-4">
-          Rè Linn nan Còmhstri, bidh an Crùn, tro Chaimbeulaich, a’ brosnachadh
-          sgapadh nan cinnidhean, a’ toirt taic an toiseach do aon taobh, an
+          Rè Linn nan Còmhstri, bidh an Crùn, tro Chaimbeulaich, a&apos; brosnachadh
+          sgapadh nan cinnidhean, a&apos; toirt taic an toiseach do aon taobh, an
           uair sin dhan taobh eile, gus freasdal Ghàidhealach cholleachail a
           lagachadh.
           <br />
           <br />
-          Bidh iad tric a’ cur taic ris an taobh as laige, gus uachdaranan nas
+          Bidh iad tric a&apos; cur taic ris an taobh as laige, gus uachdaranan nas
           treasa a lagachadh tro fhòirneart is sgìths.
           <br />
           <br />
           Nuair a bhios an dà thaobh air an sgìosadh, ceumaidh na Caimbeulaich
-          a-steach mar “bhritheamhan dìleas don Chrùn,” a’ faighinn fearainn,
+          a-steach mar &quot;bhritheamhan dìleas don Chrùn,&quot; a&apos; faighinn fearainn,
           pòsaidhean, agus buaidh phoilitigeach tro innleachd rìoghail is sgil
           phoilitigeach.
         </div>
@@ -2703,7 +2703,7 @@ export default function Home() {
                   Ar-a-mach Glòrmhor (1688), caillidh na Stiùbhartaich an
                   rìgh-chathair do Uilleam agus Màiri, rìghrean Pròstanach. Tha
                   Clann Mhic Fhionghuin, còmhla ri mòran chinnidhean Gàidhealach
-                  eile, a’ fuireach dìleas do dh’oghainn nan Stiùbhartach, a’
+                  eile, a&apos; fuireach dìleas do dh&apos;oghainn nan Stiùbhartach, a&apos;
                   cumail beò an dualchas rìoghail is an creideamh traidiseanta.
                 </div>
               </div>
@@ -2713,18 +2713,18 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:justify-end md:pr-8 w-full order-2 md:order-1">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm sm:text-base font-wind justify-center md:justify-end">
-                  1715 An "Còig-deug" agus Blàr Shiorramhùir
+                  1715 An &quot;Còig-deug&quot; agus Blàr Shiorramhùir
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Faisg air Dùn Bhlàthain ann an Siorrachd Shruighlea, tha Clann
                   Mhic Fhionghuin mar phàirt de fhorsa nan Eilean Siar fo Chlann
-                  Dòmhnaill, dualtach timcheall air ceud fear, a’ sabaid mar
+                  Dòmhnaill, dualtach timcheall air ceud fear, a&apos; sabaid mar
                   choisridh aotrom air taobh deas nan Seumasach. Ghabh iad pàirt
                   anns an toiseach soirbheachail den chrith-ghairm Ghàidhealach,
                   ach chrìochnaich am blàr gun cho-dhùnadh cinnteach, agus le
-                  tuiteam an ar-a-mach, dh’fhàs iad so-leònte gu poilitigeach.
-                  Ach chaill iad gun na forfheithean mòra, a’ cumail orra mar
-                  chinneadh dìleas, ged fo eagal a’ Chrùin.
+                  tuiteam an ar-a-mach, dh&apos;fhàs iad so-leònte gu poilitigeach.
+                  Ach chaill iad gun na forfheithean mòra, a&apos; cumail orra mar
+                  chinneadh dìleas, ged fo eagal a&apos; Chrùin.
                 </div>
               </div>
             </div>
@@ -2805,8 +2805,8 @@ export default function Home() {
                   Clann Mhic Fhionghuin fhathast air liostaichean faire an
                   riaghaltais, fo amharas airson an dìlseachd Seumasaich. Tha an
                   Eaglais Easbaigeach fhathast làidir ann an Sgitheanach, agus
-                  leis gun robh an t-eilean aig cridhe “rathaidean-mara” nan
-                  Gàidheal, bidh bàtaichean Sgitheanaich a’ gluasad teachdairean
+                  leis gun robh an t-eilean aig cridhe &quot;rathaidean-mara&quot; nan
+                  Gàidheal, bidh bàtaichean Sgitheanaich a&apos; gluasad teachdairean
                   is airm bho Fhraing is Èirinn chun tìr-mòr tro chalaichean
                   bheaga clainne, ceangal cudromach san lìon-dìomhair
                   Sheumasaich.
@@ -2824,7 +2824,7 @@ export default function Home() {
                   Air 21 Sultain 1745, aig Prestonpans, coileanas na Seumasaich
                   buaidh iongantach air feachdan an riaghaltais fo Chope. Bha
                   clanna nan Eilean, nam measg na Mhic Fhionghuin, nan cridhe
-                  air taobh deas nan Gàidheal, a’ cleachdadh ionnsaighean luath
+                  air taobh deas nan Gàidheal, a&apos; cleachdadh ionnsaighean luath
                   coltach ri 1715. Soirbheas tràth is buadhach, samhla air
                   dòchas ùr do adhbhar nan Stiùbhartach.
                 </div>
@@ -2884,7 +2884,7 @@ export default function Home() {
                   Samhain–Dùbhlachd 1745 Am Mairs gu Derby
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Bidh daoine Mhic Fhionghuin nam pàirt den arm a tha a’ gluasad
+                  Bidh daoine Mhic Fhionghuin nam pàirt den arm a tha a&apos; gluasad
                   deas gu Derby. Ach lùghdaichidh an àireamh, air sgàth dìth
                   solair is teicheadh, agus fàsaidh an turas doirbh. Bidh fir
                   Sgitheanaich gan cleachdadh mar speuradairean is saighdearan
@@ -2904,10 +2904,10 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Aig Cùil Lodair, tha Clann Mhic Fhionghuin nam pàirt de
                   chinnidhean an Iar air taobh deas nan Seumasach, fo stiùir
-                  Chlann Dòmhnaill fhathast. Bidh iad a’ fulang le briseadh
+                  Chlann Dòmhnaill fhathast. Bidh iad a&apos; fulang le briseadh
                   tubaisteach, mar a chleachd feachdan an riaghaltais fo Diùc
                   Chumberland sreath-thilgeadh musgaidean is gunna-mòra gus
-                  briseadh a chur air a’ chrith-ghairm Ghàidhealach. Cha deach
+                  briseadh a chur air a&apos; chrith-ghairm Ghàidhealach. Cha deach
                   taobh deas a thoirt do Chlann Dòmhnaill, an àite urramach anns
                   gach blàr traidiseanta, mì-chinnt mhòr is beàrn cultarach
                   dhona a thug crith air spiorad nan Gàidheal. Tha mòran dhen
@@ -2944,19 +2944,19 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:justify-end md:pr-8 w-full order-2 md:order-1">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm sm:text-base font-wind justify-center md:justify-end">
-                  Teicheadh a' Phrionnsa
+                  Teicheadh a&apos; Phrionnsa
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  Às dèidh na briseadh, tha Iain Dubh MacFhionghuin a’ cluich
-                  dreuchd deatamach ann a bhith a’ falach agus a’ dìon Theàrlach
+                  Às dèidh na briseadh, tha Iain Dubh MacFhionghuin a&apos; cluich
+                  dreuchd deatamach ann a bhith a&apos; falach agus a&apos; dìon Theàrlach
                   Eideard Stiùbhart, le duais £30,000 air a cheann. Air oidhche
                   27–28 Ògmhios 1746, Flòra, an Prionnsa, agus sgioba bheag de
-                  MhacFhionghuin is MhicDhòmhnaill a’ dol tarsainn nan cuantan
+                  MhacFhionghuin is MhicDhòmhnaill a&apos; dol tarsainn nan cuantan
                   cunnartach bho Bheinn na Faoghla gu Sgitheanach. Tha an
-                  Prionnsa air a cheilt mar “Betty Burke,” ban-bhàrd Èireannach
-                  le cuibhle-shnìomha. Bidh e a’ seachnadh ghlacadh tro
+                  Prionnsa air a cheilt mar &quot;Betty Burke,&quot; ban-bhàrd Èireannach
+                  le cuibhle-shnìomha. Bidh e a&apos; seachnadh ghlacadh tro
                   bhàtaichean is taighean-falaich nan Mhic Fhionghuin air feadh
-                  Sgitheanais, fhad ’s a bhios patralaidhean Breatannach a’
+                  Sgitheanais, fhad &apos;s a bhios patralaidhean Breatannach a&apos;
                   rannsachadh gach eilean. Tha eòlas air brath is cunnart a
                   bhith faisg, agus mu dheireadh thèid Iain Dubh fhèin a
                   ghlacadh ann an 1746 agus a chur dhan phrìosan ann an
@@ -3041,11 +3041,11 @@ export default function Home() {
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Feumaidh a h-uile Gàidheal an armachd a thoirt seachad — fiù
-                  ’s na pìoban-mòra, air am meas mar ionnstramaidean-cogaidh fo
+                  &apos;s na pìoban-mòra, air am meas mar ionnstramaidean-cogaidh fo
                   lagh ùr na h-Alba. Nì saighdearan an riaghaltais ionnsaighean
                   is rannsachaidhean tro na Gàidhealtachdan gus an lagh a chur
                   an gnìomh. Tha peanasan airson armachd a chur am falach
-                  cruaidh, prìosanachadh, às-mhalairt, no eadhon bàs. ’S e seo
+                  cruaidh, prìosanachadh, às-mhalairt, no eadhon bàs. &apos;s e seo
                   tionndadh nas cruaidhe air an Achd Dì-armachaidh 1716.
                 </div>
               </div>
@@ -3060,8 +3060,8 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Amas an lagha: cuir às do aithne Ghàidhealach is samhlan strì.
                   Toirmisgidh e aodach nan Gàidheal, breacan, fèileadh, agus
-                  plaideachan. An càin: a’ chiad eucoir: 6 mìosan sa phrìosan,
-                  an dàrna turas: 7 bliadhna dh’às-mhalairt. Tha an cultar fhèin
+                  plaideachan. An càin: a&apos; chiad eucoir: 6 mìosan sa phrìosan,
+                  an dàrna turas: 7 bliadhna dh&apos;às-mhalairt. Tha an cultar fhèin
                   air a chur fo smachd na lagha.
                 </div>
               </div>
@@ -3136,15 +3136,15 @@ export default function Home() {
                   1747 Comann SSPCK
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  Chaidh an “Society in Scotland for Propagating Christian
-                  Knowledge (SSPCK)” a stèidheachadh ann an 1709, le amas “an
-                  Gàidhealtachd a shìobhaltaich.” Toirmisgidh iad Gàidhlig mar
-                  chànan teagaisg, ag ràdh gur e “cànan barbarach” a th’ ann a
+                  Chaidh an &quot;Society in Scotland for Propagating Christian
+                  Knowledge (SSPCK)&quot; a stèidheachadh ann an 1709, le amas &quot;an
+                  Gàidhealtachd a shìobhaltaich.&quot; Toirmisgidh iad Gàidhlig mar
+                  chànan teagaisg, ag ràdh gur e &quot;cànan barbarach&quot; a th&apos; ann a
                   chuireas bacadh air dìlseachd don stàit Bhreatannach. Ann an
                   1747, ni an SSPCK co-dhùnadh oifigeil gun Bhìobaill no
                   leabhraichean Gàidhlig fhoillseachadh no sgaoileadh. Tha clann
                   ann an Sgitheanach, Muile, agus àiteachan eile air am
-                  brosnachadh an cànan fhèin a thrèigsinn “airson adhartais.”
+                  brosnachadh an cànan fhèin a thrèigsinn &quot;airson adhartais.&quot;
                 </div>
               </div>
             </div>
@@ -3204,7 +3204,7 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Thèid daingneachan, gàrraidhean, agus tùir-faire a leudachadh
                   tro na Gàidhealtachdan, agus nàbaidhean-mara timcheall nan
-                  Eilean Siar a’ cumail sùil air reubaltachd no smuagalachd.
+                  Eilean Siar a&apos; cumail sùil air reubaltachd no smuagalachd.
                   Thèid an cànan Ghàidhealach a chur fo bhacadh trom, toirmisgte
                   ann an rianachd, sgoiltean, is eaglaisean. Thèid na Gàidheil a
                   thionndadh gu bhith nan tuathanaich is sealbhadairean beaga,
@@ -3218,13 +3218,13 @@ export default function Home() {
           <div className="relative h-fit w-fit flex">
             Bha iomallachd Shgitheanais mar sgeith-dìon don chànan, oir bha
             cur-an-gnìomh riaghailtean an riaghaltais nas slaodaiche is nas
-            neo-chunbhaltaiche an seo na anns a’ Ghàidhealtachd Mheadhanach.
+            neo-chunbhaltaiche an seo na anns a&apos; Ghàidhealtachd Mheadhanach.
             <br />
             <br />
             Air fearann Mhic Fhionghuin ann an Srath Àird is meadhan
             Shgitheanais, bha Gàidhlig fhathast làidir ann an leughadh is
             sgrìobhadh, taing do sgoiltean-ìmich ionadail agus pàrantan is
-            tidsearan a sheas an aghaidh nan toirmisg, tric a’ mìneachadh an
+            tidsearan a sheas an aghaidh nan toirmisg, tric a&apos; mìneachadh an
             leasanan gu dìomhair ann an Gàidhlig.
             <br />
             <br />
@@ -3245,7 +3245,7 @@ export default function Home() {
           </video>
           <div className="relative max-w-md h-fit flex font-king">
             Ro dheireadh an 18mh linn, bha cinn-cinnidh air feadh na
-            Gàidhealtachd fo bhrùthadh gus na oighreachdan aca “ùrachadh.”
+            Gàidhealtachd fo bhrùthadh gus na oighreachdan aca &quot;ùrachadh.&quot;
             <br />
             <br />
             Bha iad air an teagasg gus màil-airgid a chur an àite seirbheis
@@ -3259,18 +3259,18 @@ export default function Home() {
             atharrachaidhean eaconamach na dùthcha.
             <br />
             <br />
-            Bha cinn Mhic Fhionghuin Srath Àird a’ seasamh air an aon
+            Bha cinn Mhic Fhionghuin Srath Àird a&apos; seasamh air an aon
             chas-chrìche: am bu chòir dhaibh fuireach mar stiùirichean clannach
-            no a bhith nan uachdarain a bha a’ sireadh prothaid.
+            no a bhith nan uachdarain a bha a&apos; sireadh prothaid.
             <br />
             <br />
-            Dh’fhàs sluagh Shgitheanais nas motha, a’ cur brùthadh air an
+            Dh&apos;fhàs sluagh Shgitheanais nas motha, a&apos; cur brùthadh air an
             fhearann bheag àiteach, agus thòisich na cinn-chinnidh ag àrdachadh
             mhàil gus co-fhreagairt ri inbhe nan Ìosalach.
             <br />
             <br />
             Chaidh mòran de na tacksmen traidiseanta fhògradh, agus thòisich an
-            seann òrdugh cinnidh a’ crìonadh.
+            seann òrdugh cinnidh a&apos; crìonadh.
           </div>
           <div className="flex w-fit h-fit relative">
             <div className="relative w-full max-w-xs md:w-80 flex h-44">
@@ -3330,7 +3330,7 @@ export default function Home() {
                   iad a chur fodha le cumhachd laghail is eaconamach. Ann an
                   1828, chaidh Srath Àird a reic le Clann Mhic Fhionghuin ri
                   Clann Dòmhnaill nan Ìosalach à Slèite. Airson Chlann Mhic
-                  Fhionghuin, b’ e seo milleadh mòr: chaidh ar fearann
+                  Fhionghuin, b&apos; e seo milleadh mòr: chaidh ar fearann
                   dualchasach à ar làmhan fhèin. Bhris an structar clannach a
                   bha air mairsinn tro linntean cogaidh mu dheireadh thall. Fo
                   shealbhadairean ùra, chaidh tuathanaich a fhògradh à Srath
@@ -3340,9 +3340,9 @@ export default function Home() {
                   gluasad gu croitichean bochda air an oirthir. Cha robh na
                   sealbhadairean ùra ceangailte ri dìlseachd clannach, ach ri
                   prothaid a-mhàin. Chaidh taighean a leagail no an losgadh gus
-                  casg a chur air tilleadh. Sreath fhada dhaoine a’ coiseachd
-                  casruisgte, a’ giùlan am beagan thogalaichean air an
-                  guailnean, a’ gluasad sìos chun na tràghad.
+                  casg a chur air tilleadh. Sreath fhada dhaoine a&apos; coiseachd
+                  casruisgte, a&apos; giùlan am beagan thogalaichean air an
+                  guailnean, a&apos; gluasad sìos chun na tràghad.
                 </div>
               </div>
             </div>
@@ -3355,7 +3355,7 @@ export default function Home() {
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Nuair a bhuail galar buntàta, bha Sgitheanach is na h-Eileanan
-                  Siar fo sgrios. Cha robh na sealbhadairean ùra — a’ mhòr-chuid
+                  Siar fo sgrios. Cha robh na sealbhadairean ùra — a&apos; mhòr-chuid
                   dhiubh gun Ghàidhlig, deònach no comasach air an sluagh a
                   chumail beò. Bha cobhair beag, cha mhòr idir. Acras, fògradh,
                   agus às-imrich a lean. Air Sgitheanach, bhàsaich mìltean, agus
@@ -3433,8 +3433,8 @@ export default function Home() {
                   An Sgapadh Fada
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Dh’fhoillsich uachdarain is an Crùn planaichean às-imrich gus
-                  an “èiginn” fhuasgladh. Bàtaichean a’ falbh à Port Rìgh is
+                  Dh&apos;fhoillsich uachdarain is an Crùn planaichean às-imrich gus
+                  an &quot;èiginn&quot; fhuasgladh. Bàtaichean a&apos; falbh à Port Rìgh is
                   calaidhean eile, le ceudan gach turas. Teaghlaichean air an
                   sgaradh: seann daoine air am fàgail airson bàsachadh, òigridh
                   air an cur thall thairis. Ràinig cuid Ceanada, Alba Nuadh,
@@ -3508,11 +3508,11 @@ export default function Home() {
                   Am Muc-fhèidh is an Cnàimh-fhèidh
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Bha ceann-cinnidh Mhic Fhionghuin aon uair a’ sealg fèidh le a
+                  Bha ceann-cinnidh Mhic Fhionghuin aon uair a&apos; sealg fèidh le a
                   dhaoine. Mar a thàinig an oidhche, tharraing e air falbh on
                   chompanaich agus lorg e fasgadh ann an uamh bheag. Tron
                   oidhche, thàinig muc-fhèidh fhiadhaich mhòr a-steach don uamh,
-                  a’ ruith air. Gun arm deiseil, gheibh an ceann-cinnidh
+                  a&apos; ruith air. Gun arm deiseil, gheibh an ceann-cinnidh
                   cnàimh-shliasaid an fhèidh a bha e air ithe, agus shàth e sìos
                   ann am beul na muc-fhèidh gus an robh i marbh. Thàinig esan
                   beò, i air chall — agus rugadh suaicheantas Mhic Fhionghuin.
@@ -3530,12 +3530,12 @@ export default function Home() {
                   Is e seo aon de na h-uamhan-mara as fhaide anns na h-Eileanan,
                   cha ghabh inntrigeadh ach aig làn-ìosal, agus sìneadh i faisg
                   air 80 meatair a-staigh. an seo san 15mh linn, rè aimhreit ri
-                  Clann ’Ill-Eathain, agus theich e air muir às dèidh sin. Tha
-                  leac mhòr a-staigh ris an canar “Bòrd Fhinn”, air a ràdh gun
+                  Clann &apos;Ill-Eathain, agus theich e air muir às dèidh sin. Tha
+                  leac mhòr a-staigh ris an canar &quot;Bòrd Fhinn&quot;, air a ràdh gun
                   deach a chleachdadh mar altair nan cràbhadhich. Ann an
                   tionndadh eile den sgeul, chaidh 12 fear den chloinn a-steach
-                  le pìobaire, fhad ’s a bha daoine eile a’ coiseachd os an
-                  cionn, a’ comharrachadh an àite as fhaide leis an
+                  le pìobaire, fhad &apos;s a bha daoine eile a&apos; coiseachd os an
+                  cionn, a&apos; comharrachadh an àite as fhaide leis an
                   fheadhainn-ciùil ro-aontaichte. Cha tàinig ach an cù a-mach —
                   lom, gun fhalt, le eagal.
                 </div>
@@ -3580,7 +3580,7 @@ export default function Home() {
                 <Image
                   layout="fill"
                   objectFit="contain"
-                  alt="MacKinnon's Cross"
+                  alt="MacKinnon&apos;s Cross"
                   draggable={false}
                   src="/images/mackinnoncross.png"
                   className="grayscale"
@@ -3613,14 +3613,14 @@ export default function Home() {
                   Crois Mhic Fhionghuin
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
-                  Air a snaidheadh ann an 1489, tha a’ chrois a’ cur an cuimhne
+                  Air a snaidheadh ann an 1489, tha a&apos; chrois a&apos; cur an cuimhne
                   Lachlainn MacFhionghuin agus a mhac Iain, Aba Ì Chaluim
                   Chille. Air aghaidh na crois, deilbh eireachdail de bhirlinn
-                  Ghàidhealach le bratach aig a’ bheul agus stiùir shoilleir aig
+                  Ghàidhealach le bratach aig a&apos; bheul agus stiùir shoilleir aig
                   an earball. Aig bonn an t-slat, figear de ghrìffon, leòmhann
                   is iolaire còmhla, samhla air treibhdhireas, misneachd, is
                   neart. Nochd an creutair seo an toiseach ann am Peirsia san
-                  5mh linn RC, agus thàinig e gu bhith na shuaicheantas anns a’
+                  5mh linn RC, agus thàinig e gu bhith na shuaicheantas anns a&apos;
                   Ghàidhealtachd.
                 </div>
               </div>
@@ -3635,20 +3635,20 @@ export default function Home() {
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
                   Aig toiseach an 17mh linn ann an Sgitheanach, bhàsaich
                   tuathanach bochd, agus thàinig teachdaire an uachdarain air
-                  latha an tiodhlacaidh. Bhuail e a’ bhantrach agus ghabh e an
+                  latha an tiodhlacaidh. Bhuail e a&apos; bhantrach agus ghabh e an
                   t-each aice, a rèir lagh chruaidh a thug còir dhan uachdaran
-                  “each as fhearr” an dèidh bàis tuathanaich. Bhòidich
+                  &quot;each as fhearr&quot; an dèidh bàis tuathanaich. Bhòidich
                   Lachlainn, mac na bantraich, dìoghaltas. Còig bliadhna fichead
                   às dèidh sin, nuair a thàinig an aon teachdaire gus each eile
                   a ghabhail bho bhantrach eile, rinn Lachlainn, a-nis duine
                   làidir, freagairt. Thug e ionnsaigh air, gheàrr e a cheann
                   dheth, nigh e e san tobar faisg air làimh, agus mharcaich e
-                  dhan chaisteal leis a’ cheann air a dhirge. Chuir an
+                  dhan chaisteal leis a&apos; cheann air a dhirge. Chuir an
                   ceann-cinnidh iongnadh air an uabhas, ach an àite peanas, thug
                   e maitheanas dha Lachlainn, thug e dha fearann is tiotalan an
-                  teachdaire, agus dh’fhàg e às leth an lagh-choir as fhearr air
+                  teachdaire, agus dh&apos;fhàg e às leth an lagh-choir as fhearr air
                   eich ann an sgìrean Mhic Fhionghuin. Canar fhathast ris an
-                  tobar sin “Tobar a’ Cheann.”
+                  tobar sin &quot;Tobar a&apos; Cheann.&quot;
                 </div>
               </div>
             </div>
@@ -3677,7 +3677,7 @@ export default function Home() {
                 <Image
                   layout="fill"
                   objectFit="contain"
-                  alt="MacKinnon's Revenge"
+                  alt="MacKinnon&apos;s Revenge"
                   draggable={false}
                   src="/images/revenge.png"
                   className="grayscale"
@@ -3725,12 +3725,12 @@ export default function Home() {
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-start">
                   Tha beul-aithris ionadail ag innse gun robh muinntir Mhic
-                  Fhionghuin a’ seachnadh uisge a thogail à cuid thobraichean
-                  air an oidhche, oir bhiodh na sìthichean a’ cruinneachadh an
+                  Fhionghuin a&apos; seachnadh uisge a thogail à cuid thobraichean
+                  air an oidhche, oir bhiodh na sìthichean a&apos; cruinneachadh an
                   sin às dèidh dol fodha na grèine. Bha aon chnoc faisg air Cill
                   Màiri, faisg air dùn meadhan-aoiseach Mhic Fhionghuin ann an
                   Srath Àird, air a mheas mar dhachaidh nan sìth. Bhiodh
-                  boireannaich a’ fàgail tabhartasan beaga, bainne, prìneachan,
+                  boireannaich a&apos; fàgail tabhartasan beaga, bainne, prìneachan,
                   agus aran-coirce, airson dìon is beannachd.
                 </div>
               </div>
@@ -3740,13 +3740,13 @@ export default function Home() {
             <div className="flex-1 flex justify-center md:justify-end md:pr-8 w-full order-2 md:order-1">
               <div className="relative w-full h-fit flex flex-col gap-2 text-center md:text-right">
                 <div className="relative w-full h-fit flex text-sm sm:text-base font-wind justify-center md:justify-end">
-                  Tobar a' Chinn
+                  Tobar a&apos; Chinn
                 </div>
                 <div className="relative w-full h-fit flex text-xs sm:text-sm font-king justify-center md:justify-end">
-                  ’S e seo an tobar far an do nigh Lachlann Òg MacFhionghuin
+                  &apos;s e seo an tobar far an do nigh Lachlann Òg MacFhionghuin
                   ceann an teachdaire ain-diadhaich às dèidh an dìoghaltais
                   mhòir. Thuirt daoine ionadail às dèidh sin gun robh an tobar
-                  “air a thàthadh” no fo dhìon nan sìthichean, agus gun èireadh
+                  &quot;air a thàthadh&quot; no fo dhìon nan sìthichean, agus gun èireadh
                   builgeanan bhuaithe air an oidhche, soidhne clasaigeach
                   làthaireachd nan sìth ann an seanchas na Gàidhealtachd.
                 </div>
@@ -3811,7 +3811,7 @@ export default function Home() {
               enlace: "https://www.trove.scot/object/27038",
             },
             {
-              titulo: "Mackinnon's Cross",
+              titulo: "Mackinnon&apos;s Cross",
               imagen: "cross",
               enlace: "https://www.trove.scot/image/1198175",
             },
@@ -3826,17 +3826,17 @@ export default function Home() {
               enlace: "https://www.trove.scot/image/2521490",
             },
             {
-              titulo: "Mackinnon's Cave, Isle of Staffa",
+              titulo: "Mackinnon&apos;s Cave, Isle of Staffa",
               imagen: "staffacave",
               enlace: "https://www.trove.scot/image/1865018",
             },
             {
-              titulo: "Drawing of Abbot MacKinnon's Tomb",
+              titulo: "Drawing of Abbot MacKinnon&apos;s Tomb",
               imagen: "drawing",
               enlace: "https://www.trove.scot/image/376583",
             },
             {
-              titulo: "MacKinnon's Cross",
+              titulo: "MacKinnon&apos;s Cross",
               imagen: "cross2",
             },
             {
@@ -3914,7 +3914,7 @@ export default function Home() {
           />
         </div>
         <div className="relative text-xs w-fit h-fit flex font-wind">
-          Tha mòr air a’ chrodh fada air falbh adharcan.
+          Tha mòr air a&apos; chrodh fada air falbh adharcan.
         </div>
       </div>
     </div>
