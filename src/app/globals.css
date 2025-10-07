@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Clana";
+  src: url("/fonts/Clana.otf");
+}
+
+@font-face {
+  font-family: "Celtica";
+  src: url("/fonts/CelticaBook.ttf");
+}
+
+
+@font-face {
+  font-family: "King";
+  src: url("/fonts/King.otf");
+}
+
+@font-face {
+  font-family: "Mayonice";
+  src: url("/fonts/Mayonice.otf");
+}
+
+@font-face {
+  font-family: "Windsol";
+  src: url("/fonts/Windsol.ttf");
+}
+
+@theme {
+  --color-azul: #6AC7F9;
+  --color-ama: #2347C0;
+  --color-girasol: #F3BF20;
+  --color-maroon: #1A141B;
+  --color-crema: #FDD67F;
+  --color-gris: #758495;
+  --color-rojo: #D04E4F;
+}
+
+@layer {
+  .font-clana {
+    font-family: "Clana";
+  }
+
+  .font-king {
+    font-family: "King";
+  }
+
+  .font-celtica {
+    font-family: "Celtica";
+  }
+
+  .font-mayon {
+    font-family: "Mayonice";
+  }
+
+  .font-wind {
+    font-family: "Windsol";
+  }
+}
+
+html {
+  overflow-x: hidden;
+  background-color: #b2d8e9;
+}
+
+html::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+html::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+html::-webkit-scrollbar-track:active {
+  background-color: transparent !important;
+  opacity: 0;
+}
+
+html::-webkit-scrollbar-thumb:active {
+  background-color: transparent !important;
+}
+
+div::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+div::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  opacity: 0;
+}
+
+div::-webkit-scrollbar-track:active {
+  background-color: transparent !important;
+  opacity: 0;
+}
+
+div::-webkit-scrollbar-thumb:active {
+  background-color: transparent !important;
+}
