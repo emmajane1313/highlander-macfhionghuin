@@ -91,7 +91,7 @@ export default function Home() {
         <div className="absolute left-5 md:-left-9 -bottom-6 md:bottom-24 w-fit h-fit flex">
           <div className="absolute -left-12 sm:-left-14 md:-left-16 w-fit h-fit flex flex-row gap-1 sm:gap-2">
             <div className="relative w-fit h-fit text-[10px] sm:text-xs font-clana text-white whitespace-nowrap">
-              Eilean Ì
+              Eilean I
             </div>
             <div className="relative w-6 h-6 sm:w-8 sm:h-8 rotate-90 flex">
               <Image
